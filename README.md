@@ -1,4 +1,4 @@
-# 🛒 E-commerce SQL Business Analyst Portfolio Project
+# 🛒 E-commerce SQL Business Analyst Project
 
 This project simulates how data analysts in real-world e-commerce and retail environments work behind the scenes to explore, clean, and analyze inventory data using SQL. The goal is to replicate the messy, imperfect nature of production datasets and apply structured querying to uncover meaningful business insights.
 
